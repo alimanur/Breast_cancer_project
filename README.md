@@ -1,1 +1,1 @@
-# Breast_cancer_project
+# Supervised machine learning algorithms application on dataset with binomial outcome
