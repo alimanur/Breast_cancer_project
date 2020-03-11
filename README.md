@@ -1,15 +1,15 @@
 # Supervised machine learning algorithms application on dataset with binomial outcome
 ## Contents
-0.[Abstract](#abstract)
-1.[Introduction](#1-introduction)
-2.[Exploratory data analysis](#2-exploratory-data-analysis)
-3.[Methodology](#3-methodology)
-4.[SVM](#1-svm)
-5.[K-nearest neigbors classifier](#2-k-nearest-neigbors-classifier)
-6.[Logistic Regression](#3-logistic-regression)
-7.[Decision Tree Classifier](#4-decision-tree-classifier)
-8.[Random Forest Classifier](#5-random-forest-classifier)
-9.[Conclusion](#4-conclusion)  
+0.  [Abstract](#abstract)
+1.  [Introduction](#1-introduction)
+2.  [Exploratory data analysis](#2-exploratory-data-analysis)
+3.  [Methodology](#3-methodology)
+4.  [SVM](#1-svm)
+5.  [K-nearest neigbors classifier](#2-k-nearest-neigbors-classifier)
+6.  [Logistic Regression](#3-logistic-regression)
+7.  [Decision Tree Classifier](#4-decision-tree-classifier)
+8.  [Random Forest Classifier](#5-random-forest-classifier)
+9.  [Conclusion](#4-conclusion)  
 
 ## Abstract
 In the following report I will be discussing several machine learning algorithms and their application on breast cancer dataset. Dependent variable is a diagnosis i.e. I would like to predict whether a patient has a malignant or benign tumor. I will be applying 5 different algorithms: Support vector machines, K nearest neighbor classification, Random forest Classifier, Decision Tree Classifier and Logistic Regression. I will be testing algorithms using K-fold clustering.
