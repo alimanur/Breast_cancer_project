@@ -4,11 +4,11 @@
 1. [Introduction](#1-introduction)
 2. [Exploratory data analysis](#2-exploratory-data-analysis)
 3. [Methodology](#3-methodology)
-   [SVM](#1-svm)
-   [K-nearest neigbors classifier](#2-k-nearest-neigbors-classifier)
-   [Logistic Regression](#3-logistic-regression)
-   [Decision Tree Classifier](#4-decision-tree-classifier)
-   [Random Forest Classifier](#5-random-forest-classifier)
+   3.1 [SVM](#1-svm)
+   3.2 [K-nearest neigbors classifier](#2-k-nearest-neigbors-classifier)
+   3.3 [Logistic Regression](#3-logistic-regression)
+   3.4 [Decision Tree Classifier](#4-decision-tree-classifier)
+   3.5 [Random Forest Classifier](#5-random-forest-classifier)
 4. [Conclusion](#4-conclusion)  
 
 ## Abstract
