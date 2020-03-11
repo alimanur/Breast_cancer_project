@@ -3,7 +3,7 @@
    Abstract
 1. [Introduction](#1-introduction)
 2. [Exploratory data analysis](#2-exploratory-data-analysis)
-3. [Methodology](#3-methodology)
+3. [Methodology](#3-methodology)/n
 3.1 [SVM](#1-svm)
 3.2 [K-nearest neigbors classifier](#2-k-nearest-neigbors-classifier)
 3.3 [Logistic Regression](#3-logistic-regression)
